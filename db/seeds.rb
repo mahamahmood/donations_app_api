@@ -8,51 +8,57 @@
 
 Item.create([
     {
-        "name": "Fancy Dress",
+        "name": "Dress",
         "category": "Clothes",
         "condition": "Never Used",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/Ed6LkKw.jpg"
     },
     {
         "name": "Computer Desk",
         "category": "Office",
         "condition": "Great",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/K7hG7Aa.jpg"
     },
     {
         "name": "HP Monitor 27 Inch",
         "category": "Electronics",
         "condition": "Good",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/4epxpau.jpg"
     },
     {
         "name": "Chair",
         "category": "Office",
         "condition": "Not Bad",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/ZntYmLc.jpg"
     },
     {
-        "name": "Black Shirt",
+        "name": "T-Shirt",
         "category": "Clothes",
         "condition": "Good",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/PsZ2PND.jpg"
     },
     {
         "name": "Wireless Mouse",
         "category": "Electronics",
         "condition": "Good",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/eGszKJu.jpg"
     },
     {
-        "name": "Flower Dress",
+        "name": "Shirt",
         "category": "Clothes",
-        "condition": "Never Used",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "condition": "Great",
+        "img": "https://i.imgur.com/TbbtRTI.jpg"
     },
     {
         "name": "Hat",
         "category": "Clothes",
         "condition": "Good",
-        "img": "http://coolspotters.com/files/photos/591533/ryan-gosling-large.jpg?1357449177"
+        "img": "https://i.imgur.com/9djhthA.jpg"
+    },
+    {
+        "name": "Red Car for Children (age: 10 - 12)",
+        "category": "Toys",
+        "condition": "Good",
+        "img": "https://i.imgur.com/5mpywlB.jpg"
     }
 ]);
